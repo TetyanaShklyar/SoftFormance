@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SoftFormance/static/css/main.51db8a5a.css",
+    "main.js": "/SoftFormance/static/js/main.ee423339.js",
+    "static/media/Wolfgang.jpg": "/SoftFormance/static/media/Wolfgang.af9294bdbfe715d9c2b7.jpg",
+    "static/media/logo.svg": "/SoftFormance/static/media/logo.fc94ab16434f2f359146e437f8092d4b.svg",
+    "index.html": "/SoftFormance/index.html",
+    "main.51db8a5a.css.map": "/SoftFormance/static/css/main.51db8a5a.css.map",
+    "main.ee423339.js.map": "/SoftFormance/static/js/main.ee423339.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51db8a5a.css",
+    "static/js/main.ee423339.js"
+  ]
+}
